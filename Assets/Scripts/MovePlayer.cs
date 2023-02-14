@@ -7,7 +7,7 @@ public class MovePlayer : MonoBehaviour
 
     private Transform _transform;
     private Vector3 _playerPos;
-    private float _velcotiy= 1;
+    private float _velcotiy= 1.5f;
 
     void Start()
     {
@@ -19,7 +19,7 @@ public class MovePlayer : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.W)) 
         {
-            transform.position += Vector3.forward * _velcotiy * Time.deltaTime;
+            transform.position += Vector3.up * _velcotiy * Time.deltaTime;
         }
         else if(Input.GetKey(KeyCode.A))
         {
