@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6af021b43dbd78141bb54b3465743ab9
+guid: 0dcd79c4ae9796946b07a6df13f8e3e2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: INTERFACE_0
+      name: "\u043A\u043B\u0430\u0434\u0431\u0438\u0449\u0435 333_0"
       rect:
         serializedVersion: 2
-        x: 9
-        y: 36
-        width: 6
-        height: 28
+        x: 1
+        y: 42
+        width: 85
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c55df0c5502c64f42b7e877510d3f745
-      internalID: -2036004870
+      spriteID: 8073304a6d9c6d346825ee120d334c6a
+      internalID: -662330256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: INTERFACE_1
+      name: "\u043A\u043B\u0430\u0434\u0431\u0438\u0449\u0435 333_1"
       rect:
         serializedVersion: 2
-        x: 41
-        y: 45
-        width: 28
-        height: 20
+        x: 116
+        y: 6
+        width: 85
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,29 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17d9c76deaa5f0142960de831c4515d2
-      internalID: 1541381984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: INTERFACE_2
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 8
-        width: 59
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f04e066581af51b47953f093a6b24f48
-      internalID: -554840446
+      spriteID: 93e129a4258fa834290f66edec023d51
+      internalID: -936458421
       vertices: []
       indices: 
       edges: []
@@ -190,9 +169,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      INTERFACE_2: -554840446
-      INTERFACE_1: 1541381984
-      INTERFACE_0: -2036004870
+      "\u043A\u043B\u0430\u0434\u0431\u0438\u0449\u0435 333_1": -936458421
+      "\u043A\u043B\u0430\u0434\u0431\u0438\u0449\u0435 333_0": -662330256
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6af021b43dbd78141bb54b3465743ab9
+guid: 8a707214f8f69424686edaa1fe1019f1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: INTERFACE_0
+      name: shelovek microvolnovka spit_0
       rect:
         serializedVersion: 2
-        x: 9
+        x: 51
         y: 36
-        width: 6
-        height: 28
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c55df0c5502c64f42b7e877510d3f745
-      internalID: -2036004870
+      spriteID: 3c0a5c15e5914e1468736c74a756f588
+      internalID: 2036015485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: INTERFACE_1
+      name: shelovek microvolnovka spit_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 45
-        width: 28
-        height: 20
+        x: 120
+        y: 37
+        width: 4
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17d9c76deaa5f0142960de831c4515d2
-      internalID: 1541381984
+      spriteID: aa403edaf128f184ba126bda1b7e2b60
+      internalID: 446702779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: INTERFACE_2
+      name: shelovek microvolnovka spit_2
       rect:
         serializedVersion: 2
-        x: 5
-        y: 8
-        width: 59
-        height: 18
+        x: 3
+        y: 12
+        width: 56
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,8 +173,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f04e066581af51b47953f093a6b24f48
-      internalID: -554840446
+      spriteID: b1f42ac28eb6dbc4bb19191fdd2990be
+      internalID: 1004958701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shelovek microvolnovka spit_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 12
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c129157bb3e774f978b80645387971
+      internalID: 1643586435
       vertices: []
       indices: 
       edges: []
@@ -190,9 +211,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      INTERFACE_2: -554840446
-      INTERFACE_1: 1541381984
-      INTERFACE_0: -2036004870
+      shelovek microvolnovka spit_0: 2036015485
+      shelovek microvolnovka spit_3: 1643586435
+      shelovek microvolnovka spit_1: 446702779
+      shelovek microvolnovka spit_2: 1004958701
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -8,7 +8,7 @@ using UnityEngine;
 public class RobotScripts : MonoBehaviour
 {
 
-
+    [SerializeField] private float move;
 
     void Start()
     {
@@ -17,7 +17,8 @@ public class RobotScripts : MonoBehaviour
    
     void Update()
     {
-
+        float hp = Input.GetAxis("Horisontal");
+        transform.Translate(Vector2.left * move * hp* Time.deltaTime);
     }
 
 
